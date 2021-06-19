@@ -11,9 +11,9 @@ import errors
 class TicTacToe:
 
     def __init__(self):
-        self.grid = [["-", "-", '-'],
-                    ['-', '-', '-'],
-                    ['-', '-', '-']]
+        self.grid = [['-', '-', '-'],
+                     ['-', '-', '-'],
+                     ['-', '-', '-']]
 
     # Main logic
     def logic(self, x: int, y: int, symbol: str) -> bool:
