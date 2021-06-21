@@ -6,7 +6,7 @@ Console game for 2 persons
 Install this code with button `code`
 
 After install all imports
-`pip3 install -r requeriments.txt`
+`pip3 install -r requeriments.txt`\n
 Go to this directory
 `cd /<path>/TicTacToe`
 End just start main file
