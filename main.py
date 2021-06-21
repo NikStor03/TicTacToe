@@ -109,3 +109,8 @@ class TicTacToe:
                     current_move -= 1
                 else:
                     current_move += 1
+
+
+if __name__ == "__main":
+    tictac = TicTacToe()
+    tictac.game()
