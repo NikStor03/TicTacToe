@@ -5,10 +5,9 @@ Console game for 2 persons
 
 Install this code with button `code`
 
-```py
-import TicTacToe
-
-tictac = TicTacToe()
-tictac.game()
-
-```
+After install all imports
+`pip3 install -r requeriments.txt`
+Go to this directory
+`cd /<path>/TicTacToe`
+End just start main file
+`python3 main.py`
